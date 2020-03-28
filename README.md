@@ -106,6 +106,6 @@ Este projeto está sob a licença MIT. Consulte o [LICENSE](LICENSE.md) para obt
 ---
 
 Feito por Yuri Duarte :wave: [Entre em contato comigo!](https://www.linkedin.com/in/yuri-duarte/)
-:email: [yuriduartedev@gmail.com](mailto:yuriduartedev@gmail.com) &nbsp;&middot;&nbsp;
-GitHub: [github.com/yuriduarte](https://github.com/yuriduarte) &nbsp;&middot;&nbsp;
+:email: [yuriduartedev@gmail.com](mailto:yuriduartedev@gmail.com) &nbsp;
+GitHub: [github.com/yuriduarte](https://github.com/yuriduarte) &nbsp;
 
