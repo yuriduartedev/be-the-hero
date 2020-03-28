@@ -56,7 +56,7 @@
 		<spam align="right">📱Mobile IOS</spam>
 	</h6>
 	<p align="center">
-	  <img alt="Aplicativo Mobile" src="https://github.com/yuriduarte/be-the-hero/blob/master/.github/iphone.gif">
+	  <img alt="Aplicativo Mobile" src="https://github.com/yuriduarte/be-the-hero/blob/master/.github/android.gif">
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	  <img alt="Aplicativo Mobile" src="https://github.com/yuriduarte/be-the-hero/blob/master/.github/iphone.gif">
 	</p>
