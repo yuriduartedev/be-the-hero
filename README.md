@@ -49,14 +49,18 @@
 
 <br>
 
-<h6 align="center"> 
-    📱Mobile IOS
-</h6>
-
-<p align="center">
-  <img alt="Aplicativo Mobile" src="https://github.com/yuriduarte/be-the-hero/blob/master/.github/iphone.gif">
-</p>
-
+<div align="center">
+	<h6 align="center"> 
+		<spam align="left">📱Mobile Android</spam>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<spam align="right">📱Mobile IOS</spam>
+	</h6>
+	<p align="center">
+	  <img alt="Aplicativo Mobile" src="https://github.com/yuriduarte/be-the-hero/blob/master/.github/iphone.gif">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	  <img alt="Aplicativo Mobile" src="https://github.com/yuriduarte/be-the-hero/blob/master/.github/iphone.gif">
+	</p>
+</div>
 
 <br>
 
