@@ -102,11 +102,10 @@ Essas são as tecnologias utilizadas nesse projeto
 
 Este projeto está sob a licença MIT. Consulte o [LICENSE](LICENSE.md) para obter detalhes.
 
+
 ---
 
-
-> :email: [yuriduartedev@gmail.com](mailto:yuriduartedev@gmail.com) &nbsp;&middot;&nbsp;
-> GitHub: [github.com/yuriduarte](https://github.com/yuriduarte) &nbsp;&middot;&nbsp;
-
-
+Feito por Yuri Duarte :wave: [Entre em contato comigo!](https://www.linkedin.com/in/yuri-duarte/)
+:email: [yuriduartedev@gmail.com](mailto:yuriduartedev@gmail.com) &nbsp;&middot;&nbsp;
+GitHub: [github.com/yuriduarte](https://github.com/yuriduarte) &nbsp;&middot;&nbsp;
 
