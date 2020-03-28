@@ -29,13 +29,13 @@
 
 
 <p align="center">
-  <a href="#-o-projeto">O Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licenca">Licença</a>
+  <a href="#-license">Licença</a>
 </p>
 
-## 📋O Projeto
+## 📋 Projeto
 
 * O objetivo desse projeto é encontrar Heróis para fazer doações a ONG's escolhendo a causa que você mais se identificar, criamos uma aplicação WEB para as Ong's poderem se cadastrar e cadastrar os pedidos de ajuda e também um aplicativo mobile Android e IOS para os usuários conseguirem fazer as contribuições. <br><br><br>
 
@@ -94,7 +94,7 @@ Essas são as tecnologias utilizadas nesse projeto
 - [Celebrate](https://github.com/arb/celebrate)
 
 
-## :memo: Licença
+## 📝 License
 
 Este projeto está sob a licença MIT. Consulte o [LICENSE](LICENSE.md) para obter detalhes.
 
