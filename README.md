@@ -88,14 +88,10 @@ $ npm start
 
 Essas são as tecnologias utilizadas nesse projeto
 
-- [Knex](http://knexjs.org/)
-- [Node.js](https://nodejs.org/en/) 
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [React Icons](https://react-icons.netlify.com/)
-- [Axios](https://github.com/axios/axios)
-- [Expo](https://expo.io/)
-- [Celebrate](https://github.com/arb/celebrate)
+📟- **Backend:** [Node.js](https://nodejs.org/en/), [Knex](http://knexjs.org/), [Express](https://expressjs.com/pt-br/), [SQLite3](https://www.sqlite.org/index.html), [Celebrate](https://github.com/arb/celebrate).  
+💻- **Frontend:** [React](https://reactjs.org), [Axios](https://github.com/axios/axios), [React Icons](https://react-icons.netlify.com/).  
+📱- **Mobile:** [React Native](https://facebook.github.io/react-native/), [React Navigation](https://reactnavigation.org/), [Expo](https://expo.io/), [Axios](https://github.com/axios/axios), [React Icons](https://react-icons.netlify.com/).   
+🧪- **Testes:** [Jest](https://jestjs.io/) e [SuperTest](https://github.com/visionmedia/supertest).  
 
 
 ## 📝 License
