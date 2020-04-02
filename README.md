@@ -66,22 +66,52 @@
 
 ## 💻 Como usar
 
-
-
 Para clonar e rodar essa aplicação você precisará do [Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/download/) (que vem com [npm](http://npmjs.com)) instalado no seu computador. Na sua linha de comando:
 
+### Clone esse repositório
 ```bash
-# Clone esse repositório
+# Digite o comando abaixo para clonar o repositório
 $ git clone https://github.com/yuriduarte/be-the-hero.git
+```
 
+### Iniciando o Backend
+
+```bash
 # Vá para o repositório Back-end
 $ cd backend
 
 # Instale as dependencias
-$ npm install
+$ yarn
 
-# Rode a aplicação
-$ npm start
+# Para iniciar o servidor
+$ yarn dev
+```
+### Iniciando a plataforma Web
+
+```bash
+# Vá para o repositório Back-end
+$ cd frontend
+
+# Instale as dependencias
+$ yarn
+
+# Para iniciar a aplicação no seu navegador
+$ yarn start
+```
+
+### Iniciando a aplicação Mobile
+
+```bash
+# Vá para o repositório Back-end
+$ cd mobile
+
+# Instale as dependencias
+$ yarn
+
+# Para iniciar o aplicativo
+$ yarn start
+
+# Baixe o aplicativo expo em seu celular e faça a leitura do QRcode exibido no seu terminal.
 ```
 
 ## 👨‍💻 Tecnologias
